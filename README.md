@@ -12,19 +12,19 @@ This repo will be used to share my passion of astrophotography.  I will share my
 
 ### Project details
 > **Common name:** Orion Nebula
-
+>
 > **Date:** 2024-11-13
-
+>
 > **Gear:** Seestar S50
-
+>
 > **Filter:** Light Pollution Filter
-
+>
 > **Temp:** 7.875c
-
+>
 > **Exposure:** 10s
-
+>
 > **Number of stacked frames:** 275
-
+>
 > **Pre-processing:** Seestar Mosaic
 
 **Processing results "Before and After":** 
