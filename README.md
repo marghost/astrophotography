@@ -10,21 +10,15 @@ This repo will be used to share my passion of astrophotography.  I will share my
 **Processed Image:** 
 ![Stacked_275_mosaic_M42_10.0s_LP_20241113-013043_graxpert_denoised_colorcalibrated_starnet_stretched_gimp.jpg](https://github.com/marghost/astrophotography/blob/main/imgs/processed/Stacked_275_mosaic_M42_10.0s_LP_20241113-013043_graxpert_denoised_colorcalibrated_starnet_stretched_gimp.jpg?raw=true)
 
-**Common name:** Orion Nebula
-
-**Date:** 2024-11-13
-
-**Gear:** Seestar S50
-
-**Filter:** Light Pollution Filter
-
-**Temp:** 7.875c
-
-**Exposure:** 10s
-
-**Number of stacked frames:** 275
-
-**Pre-processing:** Seestar Mosaic
+### Project details
+> **Common name:** Orion Nebula
+> **Date:** 2024-11-13
+> **Gear:** Seestar S50
+> **Filter:** Light Pollution Filter
+> **Temp:** 7.875c
+> **Exposure:** 10s
+> **Number of stacked frames:** 275
+> **Pre-processing:** Seestar Mosaic
 
 **Processing results "Before and After":** 
 ![m42_before_after.png](https://github.com/marghost/astrophotography/blob/main/imgs/beforeafter/m42_before_after.png?raw=true)
@@ -36,7 +30,7 @@ This repo will be used to share my passion of astrophotography.  I will share my
 
 <summary>Seestar S50 Pre-processing and Post-processing workflows</summary>
 
-# Seestar S50 Photo processing
+## Seestar S50 Photo processing
 This is my current astrophotography photo processing flow.  For mosaic mode, i skip the pre-processing stacking script and work directly with the processed fits file compiled by the Seestar s50.  If using regular mode, the stacking script tend to do a better job at stacking the subframes.  It also has less artefacts.
 
 **Updated:** 2024/11/14 
