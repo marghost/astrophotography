@@ -7,10 +7,7 @@ This repo will be used to share my passion of astrophotography.  I will share my
 <summary>M 42 (The Orion Nebula) 2024</summary>
 
 ## M 42
-**Processed Image:** 
-![Stacked_275_mosaic_M42_10.0s_LP_20241113-013043_graxpert_denoised_colorcalibrated_starnet_stretched_gimp.jpg](https://github.com/marghost/astrophotography/blob/main/imgs/processed/Stacked_275_mosaic_M42_10.0s_LP_20241113-013043_graxpert_denoised_colorcalibrated_starnet_stretched_gimp.jpg?raw=true)
-
-### Project details
+### Project Details
 > **Common name:** Orion Nebula
 >
 > **Date:** 2024-11-13
@@ -27,7 +24,10 @@ This repo will be used to share my passion of astrophotography.  I will share my
 >
 > **Pre-processing:** Seestar Mosaic
 
-**Processing results "Before and After":** 
+### Processed Image
+![Stacked_275_mosaic_M42_10.0s_LP_20241113-013043_graxpert_denoised_colorcalibrated_starnet_stretched_gimp.jpg](https://github.com/marghost/astrophotography/blob/main/imgs/processed/Stacked_275_mosaic_M42_10.0s_LP_20241113-013043_graxpert_denoised_colorcalibrated_starnet_stretched_gimp.jpg?raw=true)
+
+### Processing results "Before and After"
 ![m42_before_after.png](https://github.com/marghost/astrophotography/blob/main/imgs/beforeafter/m42_before_after.png?raw=true)
 
 </details>
