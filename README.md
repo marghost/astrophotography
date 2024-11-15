@@ -129,7 +129,7 @@ Do **small** stretches inside the histogram transformation tool.  Repeat as many
 
 </details>
 
-# Licence :page_facing_up:
+# Licence
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
