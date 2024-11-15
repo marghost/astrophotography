@@ -1,4 +1,4 @@
-# :telescope: Astrophotography
+# Astrophotography :telescope:
 This repo will be used to share my passion of astrophotography.  I will share my projects and the techniques I use to process my space clichés.
 
 ## Project Gallery :star:
