@@ -2,10 +2,10 @@
 This repo will be used to share my passion of astrophotography.  I will share my projects and the techniques I use to process my space clichés.
 
 ## Project Gallery
-- [M 42 (The Orion Nebula) 2024](https://github.com/marghost/astrophotography/blob/main/gallery/GALLERY.md#m-42)
+- [M 42 (The Orion Nebula) 2024](https://github.com/marghost/astrophotography/blob/main/gallery/README.md#m-42)
 
 ## Processing Workflows
-- [Seestar S50 Pre-processing and Post-processing workflows](https://github.com/marghost/astrophotography/blob/main/processing/PROCESSING.md)
+- [Seestar S50 Pre-processing and Post-processing workflows](https://github.com/marghost/astrophotography/blob/main/processing/README.md)
 # Licence
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
