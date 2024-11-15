@@ -1,7 +1,7 @@
 # :telescope: Astrophotography
 This repo will be used to share my passion of astrophotography.  I will share my projects and the techniques I use to process my space clichés.
 
-## :star: Project Gallery
+## Project Gallery :star:
 <details>
 
 <summary>M 42 (The Orion Nebula) 2024</summary>
@@ -32,7 +32,7 @@ This repo will be used to share my passion of astrophotography.  I will share my
 
 </details>
 
-## :camera: Processing Workflows
+## Processing Workflows :camera: 
 <details>
 
 <summary>Seestar S50 Pre-processing and Post-processing workflows</summary>
@@ -129,7 +129,7 @@ Do **small** stretches inside the histogram transformation tool.  Repeat as many
 
 </details>
 
-# Licence
+# Licence :page_facing_up:
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
