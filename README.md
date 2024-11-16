@@ -1,4 +1,4 @@
-# Astrophotography :telescope:
+# :telescope: Astrophotography
 This repo will be used to share my passion of astrophotography.  I will share my projects and the techniques I use to process my space clichés.
 
 ## Project Gallery :star:
@@ -32,7 +32,7 @@ This repo will be used to share my passion of astrophotography.  I will share my
 
 </details>
 
-## Processing Workflows :camera: 
+## Processing Workflows :rocket:
 <details>
 
 <summary>Seestar S50 Pre-processing and Post-processing workflows</summary>
