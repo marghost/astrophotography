@@ -31,6 +31,35 @@ This repo will be used to share my passion of astrophotography.  I will share my
 ![m42_before_after.png](https://github.com/marghost/astrophotography/blob/main/imgs/beforeafter/m42_before_after.png?raw=true)
 
 </details>
+<details>
+
+<summary>M 17 (Omega Nebula) 2024</summary>
+
+## M 17
+### Project Details
+> **Common name:** Orion Nebula
+>
+> **Date:** 2024-08-30
+>
+> **Gear:** Seestar S50
+>
+> **Filter:** IRCut
+>
+> **Temp:** 22c
+>
+> **Exposure:** 10s
+>
+> **Number of stacked frames:** 161
+>
+> **Pre-processing:** Siril seestar pre-processing script
+
+### Processed Image
+![M_17_161x10sec_T22degC_2024-08-30_graxpert_denoised_colorcorrected_siril_gimp_v2.jpg](https://github.com/marghost/astrophotography/blob/main/imgs/processed/M_17_161x10sec_T22degC_2024-08-30_graxpert_denoised_colorcorrected_siril_gimp_v2.jpg?raw=true)
+
+### Processing results "Before and After"
+![m17_before_after_v2.png](https://github.com/marghost/astrophotography/blob/main/imgs/beforeafter/m17_before_after_v2.png?raw=true)
+
+</details>
 
 ## Processing Workflows :rocket:
 <details>
