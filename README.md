@@ -60,6 +60,7 @@ This repo will be used to share my passion of astrophotography.  I will share my
 ![m17_before_after_v2.png](https://github.com/marghost/astrophotography/blob/main/imgs/beforeafter/m17_before_after_v2.png?raw=true)
 
 </details>
+<details>
 
 <summary>IC 405 (The Flaming Star Nebula) 2024</summary>
 
