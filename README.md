@@ -61,6 +61,34 @@ This repo will be used to share my passion of astrophotography.  I will share my
 
 </details>
 
+<summary>IC 405 (The Flaming Star Nebula) 2024</summary>
+
+## IC 405
+### Project Details
+> **Common name:** The Flaming Star Nebula
+>
+> **Date:** 2024-11-26
+>
+> **Gear:** Seestar S50
+>
+> **Filter:** Light Pollution Filter
+>
+> **Temp:** 15c
+>
+> **Exposure:** 10s
+>
+> **Number of stacked frames:** 91
+>
+> **Pre-processing:** Siril seestar pre-processing script
+
+### Processed Image
+![IC_405_91x10sec_T15degC_2024-11-266_stackingscript_graxpert_denoised_siril_gimp_graxpert_denoised.jpg](https://github.com/marghost/astrophotography/blob/main/imgs/processed/IC_405_91x10sec_T15degC_2024-11-266_stackingscript_graxpert_denoised_siril_gimp_graxpert_denoised.jpg?raw=true)
+
+### Processing results "Before and After"
+![IC405_before_after.png](https://github.com/marghost/astrophotography/blob/main/imgs/beforeafter/IC405_before_after.png?raw=true)
+
+</details>
+
 ## Processing Workflows :rocket:
 <details>
 
@@ -155,6 +183,36 @@ Do **small** stretches inside the histogram transformation tool.  Repeat as many
 - https://siril.org/tutorials/seestar/ Processing ZWO Seestar S50 images
 - https://youtu.be/syCVl1fDLTk Pre-processing Seestar Data with Siril
 - https://www.youtube.com/watch?v=lMoSAHOgbD4 Advanced Processing -Cuiv
+
+</details>
+
+<details>
+
+<summary>Seestar S50 Post-processing RAW Avi of the Moon</summary>
+
+## A combinaison of PIPP - Autostakkert - Registax6
+##PIPP
+PIPP will help remove the Moon shifting when taking longer exposure.
+- Drag&Drop avi to PIPP
+- Do not debayer if asked to
+- Select "Solar/Lunar Full Disk"
+- Opened picture > click on update image
+- Output Options > select SER formats
+- Do Processing
+- Start Processing
+
+## Autostakkert
+- Open SER file
+- Select Analyse.  Look at quality graph
+- Choose acceptable value when green curve pass under middle blue.
+- Go to other panel.  Set AP Size to 200 and click place AP grid.
+- Stack
+
+## Registax6
+- Still working on this part.
+
+## Source
+- https://www.youtube.com/watch?v=8Iyr5W38ZN8 Moon Processing PIPP & Autostakkert
 
 </details>
 
