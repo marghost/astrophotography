@@ -89,6 +89,35 @@ This repo will be used to share my passion of astrophotography.  I will share my
 ![IC405_before_after.png](https://github.com/marghost/astrophotography/blob/main/imgs/beforeafter/IC405_before_after.png?raw=true)
 
 </details>
+<details>
+
+<summary>M1 (The Crab Nebula) 2024</summary>
+
+## M 1
+### Project Details
+> **Common name:** The Crab Nebula
+>
+> **Date:** 2024-11-30
+>
+> **Gear:** Seestar S50
+>
+> **Filter:** Light Pollution Filter
+>
+> **Temp:** 11c
+>
+> **Exposure:** 10s
+>
+> **Number of stacked frames:** 333
+>
+> **Pre-processing:** Siril seestar pre-processing script
+
+### Processed Image
+![M_1_333x10sec_T11degC_2024-11-30_graxpert_denoised_siril_gimp_graxpert_denoised.jpg](https://github.com/marghost/astrophotography/blob/main/imgs/processed/M_1_333x10sec_T11degC_2024-11-30_graxpert_denoised_siril_gimp_graxpert_denoised.jpg?raw=true)
+
+### Processing results "Before and After"
+![M1_before_after.jpg](https://github.com/marghost/astrophotography/blob/main/imgs/beforeafter/M1_before_after.jpg?raw=true)
+
+</details>
 
 ## Processing Workflows :rocket:
 <details>
