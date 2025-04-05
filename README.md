@@ -3,11 +3,11 @@ This repo will be used to share my passion of astrophotography.  I will share my
 
 ## Project Gallery :star:
 
-| <img src="./photographs/messier42/Stacked_275_mosaic_M42_10.0s_LP_20241113-013043_graxpert_denoised_colorcalibrated_starnet_stretched_gimp.jpg" width="250" height="250"/> | <img src="./photographs/default.png" width="250" height="250"/> | <img src="./photographs/default.png" width="250" height="250"/> |
+| <img src="./imgs/processed/Stacked_275_mosaic_M42_10.0s_LP_20241113-013043_graxpert_denoised_colorcalibrated_starnet_stretched_gimp.jpg" width="250" height="250"/> | <img src="./imgs/default.png" width="250" height="250"/> | <img src="./imgs/default.png" width="250" height="250"/> |
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
 | **M42 - The Orion Nebula**<br>2024-11-13                        | **Name**<br>Date                      | **Name**<br>Date                      |
 | <details><summary>Details</summary>**Common name:** Orion Nebula<br>**Gear:** Seestar S50<br>**Filter:** Light Pollution Filter<br>**Temp:** 7.875c<br>**Exposure:** 10s<br>**Number of stacked frames:** 275<br>**Pre-processing:** Seestar Mosaic</details> | <details><summary>Details</summary>More details about Image 2 here.</details> | <details><summary>Details</summary>More details about Image 3 here.</details> |
-| <img src="./photographs/default.png" width="250" height="250"/> | <img src="./photographs/default.png" width="250" height="250"/> | <img src="./photographs/default.png" width="250" height="250"/> |
+| <img src="./imgs/default.png" width="250" height="250"/> | <img src="./imgs/default.png" width="250" height="250"/> | <img src="./imgs/default.png" width="250" height="250"/> |
 | **Name**<br>Date                     | **Name**<br>Date                       | **Name**<br>Date                       |
 | <details><summary>Details</summary>More details about Image 4 here.</details> | <details><summary>Details</summary>More details about Image 5 here.</details> | <details><summary>Details</summary>More details about Image 6 here.</details> |
 
