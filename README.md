@@ -11,7 +11,7 @@ This repo will be used to share my passion of astrophotography.  I will share my
 | **IC405 - The Flaming Star Nebula**<br>2024-11-26                    | **Name**<br>Date                       | **Name**<br>Date                       |
 | <details><summary>Details</summary>**Common name:** The Flaming Star Nebula<br>**Gear:** Seestar S50<br>**Filter:** Light Pollution Filter<br>**Temp:** 15c<br>**Exposure:** 10s<br>**Number of stacked frames:** 91<br>**Pre-processing:** Siril pre processing script<br>**Processing:** [IC405 Before and After](https://github.com/marghost/astrophotography/raw/main/imgs/beforeafter/IC405_before_after.png?raw=true)</details> | <details><summary>Details</summary>More details about Image 5 here.</details> | <details><summary>Details</summary>More details about Image 6 here.</details> |
 
-
+<!-- Old Gallery
 <details>
 
 <summary>M 42 (The Orion Nebula) 2024</summary>
@@ -127,7 +127,7 @@ This repo will be used to share my passion of astrophotography.  I will share my
 ### Processing results "Before and After"
 ![M1_before_after.jpg](https://github.com/marghost/astrophotography/blob/main/imgs/beforeafter/M1_before_after.jpg?raw=true)
 
-</details>
+</details>-->
 
 ## Processing Workflows :rocket:
 <details>
