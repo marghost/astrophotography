@@ -1,16 +1,17 @@
 # :telescope: Astrophotography
-This repo will be used to share my passion of astrophotography.  I will share my projects and the techniques I use to process my space clichés.
+This repo showcases my passion for astrophotography, featuring my projects and the techniques I use to process space images.
 
 ## Project Gallery :star:
 
-| <img src="./imgs/processed/M_1_333x10sec_T11degC_2024-11-30_graxpert_denoised_siril_gimp_graxpert_denoised.jpg?raw=true" width="250"/> | <img src="./imgs/processed/M_17_161x10sec_T22degC_2024-08-30_graxpert_denoised_colorcorrected_siril_gimp_v2.jpg?raw=true" width="250"/> | <img src="./imgs/processed/Stacked_275_mosaic_M42_10.0s_LP_20241113-013043_graxpert_denoised_colorcalibrated_starnet_stretched_gimp.jpg?raw=true" width="250"/> |
+| [![M1 - The Crab Nebula](./imgs/thumbnail/M1_thumbnail.jpg)](./imgs/processed/M_1_333x10sec_T11degC_2024-11-30_graxpert_denoised_siril_gimp_graxpert_denoised.jpg?raw=true)
+<img src="" width="250"/> | <img src="./imgs/processed/M_17_161x10sec_T22degC_2024-08-30_graxpert_denoised_colorcorrected_siril_gimp_v2.jpg?raw=true" width="250"/> | <img src="./imgs/processed/Stacked_275_mosaic_M42_10.0s_LP_20241113-013043_graxpert_denoised_colorcalibrated_starnet_stretched_gimp.jpg?raw=true" width="250"/> |
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
 | **M1 - The Crab Nebula**<br>2024-11-30                        | **M17 - The Omega Nebula**<br>2024-08-30                      | **M42 - The Orion Nebula**<br>2024-11-13                      |
 | <details><summary>Details</summary>**Common name:** The Crab Nebula<br>**Gear:** Seestar S50<br>**Filter:** Light Pollution Filter<br>**Temp:** 11c<br>**Exposure:** 10s<br>**Number of stacked frames:** 333<br>**Pre-processing:** Siril pre processing script<br>**Processing:** [M1 Before and After](https://github.com/marghost/astrophotography/raw/main/imgs/beforeafter/M1_before_after.jpg?raw=true)</details> | <details><summary>Details</summary>**Common name:** Orion Nebula<br>**Gear:** Seestar S50<br>**Filter:** IRCut<br>**Temp:** 22c<br>**Exposure:** 10s<br>**Number of stacked frames:** 161<br>**Pre-processing:** Siril pre processing script<br>**Processing:** [M17 Before and After](https://github.com/marghost/astrophotography/raw/main/imgs/beforeafter/m17_before_after_v2.png?raw=true)</details> | <details><summary>Details</summary>**Common name:** Orion Nebula<br>**Gear:** Seestar S50<br>**Filter:** Light Pollution Filter<br>**Temp:** 7.875c<br>**Exposure:** 10s<br>**Number of stacked frames:** 275<br>**Pre-processing:** Seestar Mosaic<br>**Processing:** [M42 Before and After](https://github.com/marghost/astrophotography/raw/main/imgs/beforeafter/m42_before_after.png?raw=true)</details> |
 | <img src="./imgs/processed/M_100_475x10sec_T1degC_2025-04-01_graxpert_denoised_stretched_graxpert_obj_decon_gimp.jpg" width="250"/> | <img src="./imgs/processed/M_102_246x10sec_T2degC_2025-04-01_graxpert_denoised_stretched.jpg" width="250" height="250"/> | <img src="./imgs/processed/IC_405_91x10sec_T15degC_2024-11-266_stackingscript_graxpert_denoised_siril_gimp_graxpert_denoised.jpg?raw=true" width="250"/> |
 | **M100 - The Mirror Galaxy**<br>2025-04-01                       | **M102 - The Spindle Galaxy**<br>2025-04-01                       | **IC405 - The Flaming Star Nebula**<br>2024-11-26                    |
 | <details><summary>Details</summary>**Common name:** The Mirror Galaxy<br>**Gear:** Seestar S50<br>**Filter:** IRCUT<br>**Temp:** 1.875c<br>**Exposure:** 10s<br>**Number of stacked frames:** 475<br>**Pre-processing:** Siril pre processing script<br>**Processing:** [M100 Before and After](https://github.com/marghost/astrophotography/raw/main/imgs/beforeafter/m100_before_after.png?raw=true)</details> | <details><summary>Details</summary>**Common name:** The Spindle Galaxy<br>**Gear:** Seestar s50<br>**Filter:** IRCut<br>**Temp:** 2.875<br>**Exposure:** 10s<br>**Number of stacked frames:** 246<br>**Pre-processing:** Siril pre processing script<br>**Processing:** [M102 Before and After](https://github.com/marghost/astrophotography/raw/main/imgs/beforeafter/m102_before_after.png?raw=true)</details> | <details><summary>Details</summary>**Common name:** The Flaming Star Nebula<br>**Gear:** Seestar S50<br>**Filter:** Light Pollution Filter<br>**Temp:** 15c<br>**Exposure:** 10s<br>**Number of stacked frames:** 91<br>**Pre-processing:** Siril pre processing script<br>**Processing:** [IC405 Before and After](https://github.com/marghost/astrophotography/raw/main/imgs/beforeafter/IC405_before_after.png?raw=true)</details> |
-| <img src="./imgs/default.png" width="250"/> | <img src="./imgs/default.png" width="250"/> | <img src="./imgs/default.png" width="250" height="250"/> |
+| <img src="./imgs/default.png" width="250"/> | <img src="./imgs/default.png" width="250"/> | <img src="./imgs/default.png" width="250"/> |
 | **Name**<br>Date                       | **Name**<br>Date                       | **Name**<br>Date                    |
 | <details><summary>Details</summary>**Common name:** <br>**Gear:** <br>**Filter:** <br>**Temp:** <br>**Exposure:** <br>**Number of stacked frames:** <br>**Pre-processing:** <br>**Processing:** [Before and After](?raw=true)</details> | <details><summary>Details</summary>**Common name:** <br>**Gear:** <br>**Filter:** <br>**Temp:** <br>**Exposure:** <br>**Number of stacked frames:** <br>**Pre-processing:** <br>**Processing:** [Before and After](?raw=true)</details> | <details><summary>Details</summary>**Common name:** <br>**Gear:** <br>**Filter:** <br>**Temp:** <br>**Exposure:** <br>**Number of stacked frames:** <br>**Pre-processing:** <br>**Processing:** [Before and After](?raw=true)</details> |
 
@@ -140,12 +141,12 @@ This repo will be used to share my passion of astrophotography.  I will share my
 ## Seestar S50 Photo processing
 This is my current astrophotography photo processing flow.  For mosaic mode, i skip the pre-processing stacking script and work directly with the processed fits file compiled by the Seestar s50.  If using regular mode, the stacking script tend to do a better job at stacking the subframes.  It also has less artefacts.
 
-**Updated:** 2024/11/14 
+**Updated:** 2025/04/06 
 
 ## Pre-processing stack with Siril script
 
 1. [Download the script to preprocess your images](https://gitlab.com/free-astro/siril-scripts/-/raw/main/preprocessing/Seestar_Preprocessing.ssf)
-We’ve created a script tailored to the pre-processing of your seestar. This means that this script expects to have several images which it will stack. In the current version of Siril, you need to download it manually by following this link . Place the downloaded file (Seestar_Preprocessing.ssf) in the location of your choice, then in Siril’s preferences, in the script tab, enter the folder you have chosen.
+They have created a script tailored to the pre-processing of your seestar. This means that this script expects to have several images which it will stack. In the current version of Siril, you need to download it manually by following this link . Place the downloaded file (Seestar_Preprocessing.ssf) in the location of your choice, then in Siril’s preferences, in the script tab, enter the folder you have chosen.
 
 2. Create the folder to hold your images
 The seestar only gives access to light images. Calibration is therefore not possible. All you need to do is create a "lights" directory in the folder where your images are stored.
@@ -171,7 +172,7 @@ Source: https://siril.org/tutorials/seestar/ Processing ZWO Seestar S50 images
 ![deconvolution.png](https://github.com/marghost/astrophotography/blob/main/imgs/deconvolution.png?raw=true)
 
 2. How to find the FHWM value.
-To choose "Image FHWM" value, look at this value inside Siril and calculate the value inbetween.
+To choose "Image FHWM" value, look at this value inside Siril, it will be your starting point.
 ![FWHM.png](https://github.com/marghost/astrophotography/blob/main/imgs/FWHM.png?raw=true)
 
 ### Denoising
